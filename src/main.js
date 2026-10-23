@@ -1,6 +1,6 @@
 console.log('MAIN.JS LOADED');
 
-import Start from './scenes/Start.js?v=20261021-insufficiency-feasibility-labels';
+import Start from './scenes/Start.js?v=20261023-survival-rule';
 
 console.log('START IMPORTED:', Start);
 
